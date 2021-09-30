@@ -1,0 +1,46 @@
+{
+    "http.proxySupport": "off",
+    "workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#ff0000",
+        // terminal -------------------------------------
+        "terminal.background": "#000000",
+        "terminal.foreground": "#C0C0C0",
+        "terminalCursor.background": "#C0C0C0",
+        "terminalCursor.foreground": "#C0C0C0",
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiBlue": "#0000D3",
+        "terminal.ansiBrightBlack": "#808080",
+        "terminal.ansiBrightBlue": "#0000D3",
+        "terminal.ansiBrightCyan": "#02ABEA",
+        "terminal.ansiBrightGreen": "#1FB714",
+        "terminal.ansiBrightMagenta": "#4700A5",
+        "terminal.ansiBrightRed": "#DD0907",
+        "terminal.ansiBrightWhite": "#FFFFFF",
+        "terminal.ansiBrightYellow": "#FBF305",
+        "terminal.ansiCyan": "#02ABEA",
+        "terminal.ansiGreen": "#1FB714",
+        "terminal.ansiMagenta": "#4700A5",
+        "terminal.ansiRed": "#DD0907",
+        "terminal.ansiWhite": "#C0C0C0",
+        "terminal.ansiYellow": "#FBF305",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'cascadia code', 'operator mono', 'dank mono', 'victor mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 27,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
